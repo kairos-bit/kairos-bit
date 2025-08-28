@@ -45,7 +45,7 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=390 src="https://streak-stats.demolab.com/?user=kairos-bit&theme=react&border=61dafb&hide_border=true" alt="kairos-bit" />
     </a><img width="300" height="300" alt="30_github c0a4dde53e" src="https://github.com/user-attachments/assets/898988ea-e408-4b7a-9a5d-46664c354da7" />
 <img width="300" height="300" alt="45_github-tile e1be128b4e" src="https://github.com/user-attachments/assets/c7222c8c-1702-4a1a-9d0e-af47eb55708d" />
 ![45_github-tile e1be128b4e](https://github.com/user-attachments/assets/85f00d1f-9b9f-44ad-a76f-af7e71b40e44)
