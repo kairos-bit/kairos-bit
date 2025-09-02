@@ -31,7 +31,6 @@
   <code><img title="Javascript" height="25" src="javascript.svg"></code>
   <code><img title="HTML5" height="25" src="html5.svg"></code>
   <code><img title="CSS" height="25" src="css.svg"></code>
-  <code><img title="Git" height="25" src="git-original.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="vscode.png"></code>
   <code><img title="Java" height="25" src="java-original.svg"></code>
   <code><img title="GitHub" height="25" src="github.svg"></code>
